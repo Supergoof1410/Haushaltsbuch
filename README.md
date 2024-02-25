@@ -2,14 +2,14 @@
 
 ## Beschreibung
 
-Dieses Projekt von mir, soll dabei helfen ein Programm zu schreiben damit
-ich meine Kenntnisse und Erfahrungen zu erweitern bzw. zu vertiefen. Ich habe GIT-Hub
-dafür ausgesucht damit ich es planen und eine Struktur aufbauen will. Damit
+Dieses Projekt von mir, soll dabei helfen ein Programm zu schreiben um
+meine Kenntnisse und Erfahrungen zu erweitern bzw. zu vertiefen. Ich habe GIT-Hub
+dafÃ¼r ausgesucht damit ich es planen und eine Struktur aufbauen will. Damit
 ich es auch fertig stellen kann.
 
-Zudem soll es mir dabei helfen/unterstützen meine Haushaltsplanung besser zu planen
+Zudem soll es mir dabei helfen/unterstÃ¼tzen meine Haushaltsplanung besser zu planen
 und auch meine Ausgaben immer im Blick zu haben. Ich weiss das es schon andere
-Programme dafür gibt, die mir aber zu teuer sind.
+Programme dafÃ¼r gibt, die mir aber zu teuer sind.
 
 ## TODO'S
 
@@ -21,5 +21,5 @@ Programme dafür gibt, die mir aber zu teuer sind.
 
 # Public Repository
 
-Da es ein öffentliches Repository ist, kann man mir gerne Anregungen oder
+Da es ein Ã¶ffentliches Repository ist, kann man mir gerne Anregungen oder
 Verbesserungen vorschlagen.
