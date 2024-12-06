@@ -45,4 +45,6 @@ Da dieses Projekt Open Source ist, sind Beiträge von anderen Programmierern seh
 
 ## Lizenz
 
-Dieses Projekt steht unter der [MIT Lizenz](LICENSE).
+Dieses Projekt steht unter der **GPL v3 Lizenz**. Das bedeutet, du kannst den Code frei nutzen, verändern und verteilen – aber alle Änderungen müssen ebenfalls unter der GPL-Lizenz veröffentlicht werden. Auf diese Weise bleibt das Projekt immer Open Source und zugänglich für alle.
+
+Ich hoffe, dieses Projekt kann dir helfen, deine Finanzen zu verwalten, und ich freue mich über jede Art von Beitrag zur Verbesserung. Denke daran: Wissen und Software sollten für alle zugänglich und kostenlos sein.
